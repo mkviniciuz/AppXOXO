@@ -1,2 +1,2 @@
-[!WARNING]
-urgent information about this
+[!CAUTION]
+Advises about risks or negative outcomes of certain actions.
